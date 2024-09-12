@@ -285,6 +285,61 @@ body {
 }/* Honukai theme for Tabby terminal */
 
 /* Background and foreground */
+.tabby-terminal {
+  background-color: #1b1d23;
+  color: #c5c8c6;
+}
+
+.tabby-terminal-row .magenta {
+  color: #ae81ff;
+}
+
+.tabby-terminal-row .cyan {
+  color: #a1efe4;
+}
+
+.tabby-terminal-row .white {
+  color: #c5c8c6;
+}
+
+/* Additional styles */
+.tabby-terminal-row .symbol {
+  color: #66d9ef;
+}
+
+.tabby-terminal-row .separator {
+  color: #8b9467;
+}
+
+.tabby-terminal-row .prompt {
+  font-weight: bold;
+}
+
+.tabby-terminal-row .prompt.symbol {
+  font-size: 1.2em;
+}
+
+.tabby-terminal-row .directory {
+  color: #a6e22e;
+}
+
+.tabby-terminal-row .file {
+  color: #c5c8c6;
+}
+
+.tabby-terminal-row .executable {
+  color: #66d9ef;
+}
+
+.tabby-terminal-row .git {
+  color: #a6e22e;
+}
+
+.tabby-terminal-row .git.branch {
+  font-weight: bold;
+}
+
+/* Background and foreground */
 body {
   background-color: #1b1d23;
   color: #c5c8c6;
