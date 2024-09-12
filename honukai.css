@@ -1,0 +1,604 @@
+/* Honukai theme for Tabby terminal */
+
+/* Background and foreground */
+body {
+  background-color: #1b1d23;
+  color: #c5c8c6;
+}
+
+/* Cursor */
+.x-screen x-row {
+  cursor-color: #8b9467;
+}
+
+/* Selection */
+.x-screen x-row.selected {
+  background-color: #2c323c;
+}
+
+/* Colors */
+.x-screen x-row .black {
+  color: #1b1d23;
+}
+
+.x-screen x-row .red {
+  color: #e67e73;
+}
+
+.x-screen x-row .green {
+  color: #a6e22e;
+}
+
+.x-screen x-row .yellow {
+  color: #f7dc6f;
+}
+
+.x-screen x-row .blue {
+  color: #66d9ef;
+}
+
+.x-screen x-row .magenta {
+  color: #ae81ff;
+}
+
+.x-screen x-row .cyan {
+  color: #a1efe4;
+}
+
+.x-screen x-row .white {
+  color: #c5c8c6;
+}/* Honukai theme for Tabby terminal */
+
+/* Background and foreground */
+body {
+  background-color: #1b1d23;
+  color: #c5c8c6;
+}
+
+/* Cursor */
+.x-screen x-row {
+  cursor-color: #8b9467;
+}
+
+/* Selection */
+.x-screen x-row.selected {
+  background-color: #2c323c;
+}
+
+/* Colors */
+.x-screen x-row .black {
+  color: #1b1d23;
+}
+
+.x-screen x-row .red {
+  color: #e67e73;
+}
+
+.x-screen x-row .green {
+  color: #a6e22e;
+}
+
+.x-screen x-row .yellow {
+  color: #f7dc6f;
+}
+
+.x-screen x-row .blue {
+  color: #66d9ef;
+}
+
+.x-screen x-row .magenta {
+  color: #ae81ff;
+}
+
+.x-screen x-row .cyan {
+  color: #a1efe4;
+}
+
+.x-screen x-row .white {
+  color: #c5c8c6;
+}
+
+/* Additional styles */
+.x-screen x-row .symbol {
+  color: #66d9ef;
+}
+
+.x-screen x-row .separator {
+  color: #8b9467;
+}
+
+.x-screen x-row .prompt {
+  font-weight: bold;
+}
+
+.x-screen x-row .prompt.symbol {
+  font-size: 1.2em;
+}
+
+.x-screen x-row .directory {
+  color: #a6e22e;
+}
+
+.x-screen x-row .file {
+  color: #c5c8c6;
+}
+
+.x-screen x-row .executable {
+  color: #66d9ef;
+}
+
+.x-screen x-row .git {/* Honukai theme for Tabby terminal */
+
+/* Background and foreground */
+body {
+  background-color: #1b1d23;
+  color: #c5c8c6;
+}
+
+/* Cursor */
+.x-screen x-row {
+  cursor-color: #8b9467;
+}
+
+/* Selection */
+.x-screen x-row.selected {
+  background-color: #2c323c;
+}
+
+/* Colors */
+.x-screen x-row .black {
+  color: #1b1d23;
+}
+
+.x-screen x-row .red {
+  color: #e67e73;
+}
+
+.x-screen x-row .green {
+  color: #a6e22e;
+}
+
+.x-screen x-row .yellow {
+  color: #f7dc6f;
+}
+
+.x-screen x-row .blue {
+  color: #66d9ef;
+}
+
+.x-screen x-row .magenta {
+  color: #ae81ff;
+}
+
+.x-screen x-row .cyan {
+  color: #a1efe4;
+}
+
+.x-screen x-row .white {
+  color: #c5c8c6;
+}
+
+/* Additional colors */
+.x-screen x-row .ansi-0 {
+  color: #1b1d23;
+}
+
+.x-screen x-row .ansi-1 {
+  color: #e67e73;
+}
+
+.x-screen x-row .ansi-2 {
+  color: #a6e22e;
+}
+
+.x-screen x-row .ansi-3 {
+  color: #f7dc6f;
+}
+
+.x-screen x-row .ansi-4 {
+  color: #66d9ef;
+}
+
+.x-screen x-row .ansi-5 {
+  color: #ae81ff;
+}
+
+.x-screen x-row .ansi-6 {
+  color: #a1efe4;
+}
+
+.x-screen x-row .ansi-7 {
+  color: #c5c8c6;
+}
+
+.x-screen x-row .ansi-8 {
+  color: #1b1d23;
+}
+
+.x-screen x-row .ansi-9 {
+  color: #e67e73;
+}
+
+.x-screen x-row .ansi-10 {
+  color: #a6e22e;
+}
+
+.x-screen x-row .ansi-11 {
+  color: #f7dc6f;
+}
+
+.x-screen x-row .ansi-12 {
+  color: #66d9ef;
+}
+
+.x-screen x-row .ansi-13 {
+  color: #ae81ff;
+}
+
+.x-screen x-row .ansi-14 {
+  color: #a1efe4;
+}
+
+.x-screen x-row .ansi-15 {
+  color: #c5c8c6;
+}
+
+.x-screen x-row .background {
+  background-color: #1b1d23;
+}
+
+.x-screen x-row .foreground {
+  color: #c5c8c6;
+}
+
+/* Symbol and prompt styles */
+.x-screen x-row .symbol {
+  color: #66d9ef;
+}
+
+.x-screen x-row .separator {
+  color: #8b9467;
+}
+
+.x-screen x-row .prompt {
+  font-weight: bold;
+}
+
+.x-screen x-row .prompt.symbol {
+  font-size: 1.2em;
+}
+
+.x-screen x-row .directory {
+  color: #a6e22e;
+}
+
+.x-screen x-row .file {
+  color: #c5c8c6;
+}
+
+.x-screen x-row .executable {
+  color: #66d9ef;
+}
+
+.x-screen x-row .git {
+  color: #a6e22e;
+}/* Honukai theme for Tabby terminal */
+
+/* Background and foreground */
+body {
+  background-color: #1b1d23;
+  color: #c5c8c6;
+}
+
+/* Colors */
+.x-screen x-row .black {
+  color: #1b1d23;
+}
+
+.x-screen x-row .red {
+  color: #e67e73;
+}
+
+.x-screen x-row .green {
+  color: #a6e22e;
+}
+
+.x-screen x-row .yellow {
+  color: #f7dc6f;
+}
+
+.x-screen x-row .blue {
+  color: #66d9ef;
+}
+
+.x-screen x-row .magenta {
+  color: #ae81ff;
+}
+
+.x-screen x-row .cyan {
+  color: #a1efe4;
+}
+
+.x-screen x-row .white {
+  color: #c5c8c6;
+}
+
+/* Cursor and selection */
+.x-screen x-row {
+  cursor-color: #8b9467;
+}
+
+.x-screen x-row.selected {
+  background-color: #2c323c;
+}
+
+/* Symbol and prompt styles */
+.x-screen x-row .symbol {
+  color: #66d9ef;
+}
+
+.x-screen x-row .separator {
+  color: #8b9467;
+}
+
+.x-screen x-row .prompt {
+  font-weight: bold;
+}
+
+.x-screen x-row .prompt.symbol {
+  font-size: 1.2em;
+}
+
+/* Directory and file styles */
+.x-screen x-row .directory {
+  color: #a6e22e;
+}
+
+.x-screen x-row .file {
+  color: #c5c8c6;
+}
+
+.x-screen x-row .executable {
+  color: #66d9ef;
+}
+
+/* Git styles */
+.x-screen x-row .git {
+  color: #a6e22e;
+}
+
+.x-screen x-row .git.branch {
+  font-weight: bold;
+}
+
+.x-screen x-row .git.status {
+  color: #e67e73;
+}
+
+/* ANSI colors */
+.x-screen x-row .ansi-12 {
+  color: #66d9ef;
+}
+
+.x-screen x-row .ansi-13 {
+  color: #ae81ff;
+}
+
+.x-screen x-row .ansi-14 {
+  color: #a1efe4;
+}
+
+.x-screen x-row .ansi-15 {
+  color: #c5c8c6;
+}
+
+/* Background and foreground */
+.x-screen x-row .background {
+  background-color: #1b1d23;
+}
+
+.x-screen x-row .foreground {
+  color: #c5c8c6;
+}/* Symbol and prompt styles */
+.x-screen x-row .symbol {
+  color: #66d9ef;
+}
+
+.x-screen x-row .separator {
+  color: #8b9467;
+}
+
+.x-screen x-row .prompt {
+  font-weight: bold;
+}
+
+.x-screen x-row .prompt.symbol {
+  font-size: 1.2em;
+}
+
+/* Directory and file styles */
+.x-screen x-row .directory {
+  color: #a6e22e;
+}
+
+.x-screen x-row .file {
+  color: #c5c8c6;
+}
+
+.x-screen x-row .executable {
+  color: #66d9ef;
+}
+
+/* Git styles */
+/*.x-screen x-row .git.branch {
+  font-weight: bold;
+}*/
+
+.x-screen x-row .git.status {
+  color: #e67e73;
+}
+
+/* ANSI colors */
+.x-screen x-row .ansi-12 {
+  color: #66d9ef;
+}
+
+.x-screen x-row .ansi-13 {
+  color: #ae81ff;
+}
+
+.x-screen x-row .ansi-14 {
+  color: #a1efe4;
+}
+
+.x-screen x-row .ansi-15 {
+  color: #c5c8c6;
+}
+
+/* Background and foreground */
+.x-screen x-row .background {
+  background-color: #1b1d23;
+}
+
+.x-screen x-row .foreground {
+  color: #c5c8c6;
+}
+
+/* Duplicate styles */
+/*.x-screen x-row .git.branch {
+  font-weight: bold;
+}*/
+
+.x-screen x-row .git.branch {
+  font-weight: bold;
+}
+
+.x-screen x-row .git.status {
+  color: #e67e73;
+}
+  color: #a6e22e;
+}
+
+.x-screen x-row .git.branch {
+  font-weight: bold;
+}
+
+.x-screen x-row .git.status {
+  color: #e67e73;
+}/* Honukai theme for Tabby terminal */
+
+/* Background and foreground */
+.tabby-terminal {
+  background-color: #1b1d23;
+  color: #c5c8c6;
+}
+
+/* Tab bar */
+.tabby-tabs {
+  background-color: #2c323c;
+  border-bottom: 1px solid #2c323c;
+}
+
+.tabby-tab {
+  background-color: #2c323c;
+  color: #c5c8c6;
+  border: none;
+  padding: 10px 20px;
+}
+
+.tabby-tab-label {
+  font-weight: bold;
+}
+
+.tabby-tab-close {
+  color: #e67e73;
+  font-size: 16px;
+  padding: 0 10px;
+}
+
+/* Terminal screen */
+.tabby-terminal-screen {
+  padding: 10px;
+}
+
+.tabby-terminal-row {
+  padding: 5px 0;
+}
+
+.tabby-terminal-cell {
+  padding: 5px;
+}
+
+/* Colors */
+.tabby-terminal-row .black {
+  color: #1b1d23;
+}
+
+.tabby-terminal-row .red {
+  color: #e67e73;
+}
+
+.tabby-terminal-row .green {
+  color: #a6e22e;
+}
+
+.tabby-terminal-row .yellow {
+  color: #f7dc6f;
+}
+
+.tabby-terminal-row .blue {
+  color: #66d9ef;
+}
+
+.tabby-terminal-row .magenta {
+  color: #ae81ff;
+}
+
+.tabby-terminal-row .cyan {
+  color: #a1efe4;
+}
+
+.tabby-terminal-row .white {
+  color: #c5c8c6;
+}
+
+/* Additional styles */
+.tabby-terminal-row .symbol {
+  color: #66d9ef;
+}
+
+.tabby-terminal-row .separator {
+  color: #8b9467;
+}
+
+.tabby-terminal-row .prompt {
+  font-weight: bold;
+}
+
+.tabby-terminal-row .prompt.symbol {
+  font-size: 1.2em;
+}
+
+.tabby-terminal-row .directory {
+  color: #a6e22e;
+}
+
+.tabby-terminal-row .file {
+  color: #c5c8c6;
+}
+
+.tabby-terminal-row .executable {
+  color: #66d9ef;
+}
+
+.tabby-terminal-row .git {
+  color: #a6e22e;
+}
+
+.tabby-terminal-row .git.branch {
+  font-weight: bold;
+}
+
+.tabby-terminal-row .git.status {
+  color: #e67e73;
+}
