@@ -47,7 +47,7 @@ body {
 
 .x-screen x-row .white {
   color: #c5c8c6;
-}/* Honukai theme for Tabby terminal */
+}
 
 /* Background and foreground */
 body {
@@ -127,7 +127,7 @@ body {
   color: #66d9ef;
 }
 
-.x-screen x-row .git {/* Honukai theme for Tabby terminal */
+.x-screen x-row .git {
 
 /* Background and foreground */
 body {
@@ -282,7 +282,7 @@ body {
 
 .x-screen x-row .git {
   color: #a6e22e;
-}/* Honukai theme for Tabby terminal */
+}
 
 /* Background and foreground */
 .tabby-terminal {
@@ -540,7 +540,7 @@ body {
 
 .x-screen x-row .git.status {
   color: #e67e73;
-}/* Honukai theme for Tabby terminal */
+}
 
 /* Background and foreground */
 .tabby-terminal {
