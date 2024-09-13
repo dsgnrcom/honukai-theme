@@ -1,0 +1,22 @@
+{
+    "name": "Honukai Theme",
+    "description": "A theme inspired by Honukai",
+    "author": "Chris@hustles.dev",
+    "version": "1.0",
+    "theme": {
+      "background": "#282828",
+      "foreground": "#d8d8d8",
+      "cursor": "#d8d8d8",
+      "selectionBackground": "#444444",
+      "selectionForeground": "#ffffff",
+      "syntaxHighlighting": {
+        "comment": {"foreground": "#808080"},
+        "keyword": {"foreground": "#66d9ef"},
+        "string": {"foreground": "#a6e22e"},
+        "number": {"foreground": "#ae81ff"},
+        "function": {"foreground": "#fd971f"},
+        "variable": {"foreground": "#66d9ef"},
+        "type": {"foreground": "#66d9ef"}
+      }
+    }
+  }

@@ -1,0 +1,4 @@
+# .gitignore
+
+# Ignore the directory named 'ignored_directory'
+ignore/

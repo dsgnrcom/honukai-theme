@@ -1,0 +1,55 @@
+.tabby-terminal {
+    --background: #1d2021; /* background color */
+    --foreground: #ebdbb2; /* foreground color */
+    --cursor: #ebdbb2; /* cursor color */
+    --selection-background: #445a64; /* selection background color */
+    --selection-foreground: #ffffff; /* selection foreground color */
+  }
+  
+  .tabby-terminal .comment {
+    color: #68986a; /* comments color */
+  }
+  
+  .tabby-terminal .keyword {
+    color: #fb4934; /* keywords color */
+  }
+  
+  .tabby-terminal .string {
+    color: #8ec07c; /* strings color */
+  }
+  
+  .tabby-terminal .number {
+    color: #d3869b; /* numbers color */
+  }
+  
+  .tabby-terminal .function {
+    color: #8ec07c; /* functions color */
+  }
+  
+  .tabby-terminal .variable {
+    color: #fb4934; /* variables color */
+  }
+  
+  .tabby-terminal .type {
+    color: #fb4934; /* types color */
+  }
+  
+  .tabby-terminal .constant {
+    color: #d3869b; /* constants color */
+  }
+  
+  .tabby-terminal .builtin {
+    color: #8ec07c; /* built-in functions color */
+  }
+  
+  .tabby-terminal .inserted {
+    color: #34c759; /* inserted text color */
+  }
+  
+  .tabby-terminal .deleted {
+    color: #fb4934; /* deleted text color */
+  }
+  
+  .tabby-terminal .changed {
+    color: #d3869b; /* changed text color */
+  }
