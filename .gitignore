@@ -2,3 +2,6 @@
 
 # Ignore the directory named 'ignored_directory'
 ignore/
+
+# Ignore the file named 'ignored_file'
+.DS_Store
