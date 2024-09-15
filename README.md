@@ -11,12 +11,12 @@ I attempted to create a "color theme file" and "theme plug-in" but saw no way to
 The IDE versions below have way more colors extrapolated for IDE use case.
 
 
-**__ZED Ide:__**  
+**__ZED Ide:__**  https://zed.dev/
 
 Consult this link: https://zed.dev/docs/themes
 Use the information regarding "Local Themes."
 
-**__VS Code:__**  
+**__VS Code:__**  https://code.visualstudio.com/
 
 I've adapted the theme for VS Code Ide; consult the .zip for an installable VS Code extension.
 
