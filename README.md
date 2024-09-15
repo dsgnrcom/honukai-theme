@@ -24,11 +24,11 @@ How to use in vscode:
 
 To install the .vsix File in Visual Studio Code:
 
--Open Visual Studio Code.
--Open the Command Palette (Cmd + Shift + P).
--Type Extensions: Install from VSIX... and select the downloaded .vsix file in the zip.
+-Open Visual Studio Code.  
+-Open the Command Palette (Cmd + Shift + P).  
+-Type Extensions: Install from VSIX... and select the downloaded .vsix file in the zip.  
 
-To Apply the Theme:
+To Apply the Theme: 
 
--Open the Command Palette (Cmd + Shift + P).
--Type Preferences: Color Theme and select "Honukai Dark Blue" from the list.
+-Open the Command Palette (Cmd + Shift + P).  
+-Type Preferences: Color Theme and select "Honukai Dark Blue" from the list. 
