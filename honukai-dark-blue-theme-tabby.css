@@ -1,0 +1,273 @@
+/* Honukai Dark Blue theme for Tabby terminal */
+
+/* Background and foreground */
+body {
+    background-color: #111725;
+    color: #FFFFFF;
+  }
+  
+  /* Cursor */
+  .x-screen x-row {
+    cursor-color: #0377C8;
+  }
+  
+  /* Selection */
+  .x-screen x-row.selected {
+    background-color: #0377C833;
+  }
+  
+  /* Colors */
+  .x-screen x-row .black {
+    color: #111725;
+  }
+  
+  .x-screen x-row .red {
+    color: #CB4B16;
+  }
+  
+  .x-screen x-row .green {
+    color: #4A9207;
+  }
+  
+  .x-screen x-row .yellow {
+    color: #B8B80A;
+  }
+  
+  .x-screen x-row .blue {
+    color: #0377C8;
+  }
+  
+  .x-screen x-row .magenta {
+    color: #9933CC;
+  }
+  
+  .x-screen x-row .cyan {
+    color: #0973C0;
+  }
+  
+  .x-screen x-row .white {
+    color: #FFFFFF;
+  }
+  
+  /* Bright Colors */
+  .x-screen x-row .bright-black {
+    color: #666666;
+  }
+  
+  .x-screen x-row .bright-red {
+    color: #D56355;
+  }
+  
+  .x-screen x-row .bright-green {
+    color: #67B11D;
+  }
+  
+  .x-screen x-row .bright-yellow {
+    color: #CECE04;
+  }
+  
+  .x-screen x-row .bright-blue {
+    color: #0377C8;
+  }
+  
+  .x-screen x-row .bright-magenta {
+    color: #A653A6;
+  }
+  
+  .x-screen x-row .bright-cyan {
+    color: #2AA1B3;
+  }
+  
+  .x-screen x-row .bright-white {
+    color: #FFFFFF;
+  }
+  
+  /* Dim Colors */
+  .x-screen x-row .dim-black {
+    color: #333333;
+  }
+  
+  .x-screen x-row .dim-red {
+    color: #9B3912;
+  }
+  
+  .x-screen x-row .dim-green {
+    color: #3A7406;
+  }
+  
+  .x-screen x-row .dim-yellow {
+    color: #8A8A08;
+  }
+  
+  .x-screen x-row .dim-blue {
+    color: #025996;
+  }
+  
+  .x-screen x-row .dim-magenta {
+    color: #732699;
+  }
+  
+  .x-screen x-row .dim-cyan {
+    color: #075690;
+  }
+  
+  .x-screen x-row .dim-white {
+    color: #BBBBBB;
+  }
+  
+  /* Additional styles */
+  .x-screen x-row .symbol {
+    color: #0377C8;
+  }
+  
+  .x-screen x-row .separator {
+    color: #8b9467;
+  }
+  
+  .x-screen x-row .prompt {
+    font-weight: bold;
+  }
+  
+  .x-screen x-row .prompt.symbol {
+    font-size: 1.2em;
+  }
+  
+  .x-screen x-row .directory {
+    color: #4A9207;
+  }
+  
+  .x-screen x-row .file {
+    color: #FFFFFF;
+  }
+  
+  .x-screen x-row .executable {
+    color: #0377C8;
+  }
+  
+  .x-screen x-row .git {
+    color: #4A9207;
+  }
+  
+  .x-screen x-row .git.branch {
+    font-weight: bold;
+  }
+  
+  .x-screen x-row .git.status {
+    color: #CB4B16;
+  }
+  
+  /* Background and foreground */
+  .tabby-terminal {
+    background-color: #111725;
+    color: #FFFFFF;
+  }
+  
+  /* Tab bar */
+  .tabby-tabs {
+    background-color: #2c323c;
+    border-bottom: 1px solid #2c323c;
+  }
+  
+  .tabby-tab {
+    background-color: #2c323c;
+    color: #c5c8c6;
+    border: none;
+    padding: 10px 20px;
+  }
+  
+  .tabby-tab-label {
+    font-weight: bold;
+  }
+  
+  .tabby-tab-close {
+    color: #e67e73;
+    font-size: 16px;
+    padding: 0 10px;
+  }
+  
+  /* Terminal screen */
+  .tabby-terminal-screen {
+    padding: 10px;
+  }
+  
+  .tabby-terminal-row {
+    padding: 5px 0;
+  }
+  
+  .tabby-terminal-cell {
+    padding: 5px;
+  }
+  
+  /* Colors */
+  .tabby-terminal-row .black {
+    color: #111725;
+  }
+  
+  .tabby-terminal-row .red {
+    color: #CB4B16;
+  }
+  
+  .tabby-terminal-row .green {
+    color: #4A9207;
+  }
+  
+  .tabby-terminal-row .yellow {
+    color: #B8B80A;
+  }
+  
+  .tabby-terminal-row .blue {
+    color: #0377C8;
+  }
+  
+  .tabby-terminal-row .magenta {
+    color: #9933CC;
+  }
+  
+  .tabby-terminal-row .cyan {
+    color: #0973C0;
+  }
+  
+  .tabby-terminal-row .white {
+    color: #FFFFFF;
+  }
+  
+  /* Additional styles */
+  .tabby-terminal-row .symbol {
+    color: #0377C8;
+  }
+  
+  .tabby-terminal-row .separator {
+    color: #8b9467;
+  }
+  
+  .tabby-terminal-row .prompt {
+    font-weight: bold;
+  }
+  
+  .tabby-terminal-row .prompt.symbol {
+    font-size: 1.2em;
+  }
+  
+  .tabby-terminal-row .directory {
+    color: #4A9207;
+  }
+  
+  .tabby-terminal-row .file {
+    color: #FFFFFF;
+  }
+  
+  .tabby-terminal-row .executable {
+    color: #0377C8;
+  }
+  
+  .tabby-terminal-row .git {
+    color: #4A9207;
+  }
+  
+  .tabby-terminal-row .git.branch {
+    font-weight: bold;
+  }
+  
+  .tabby-terminal-row .git.status {
+    color: #CB4B16;
+  }
