@@ -18,7 +18,7 @@ Use the information regarding "Local Themes."
 
 **__VS Code:__**  
 
-I've adapted the theme fo VS Code Ide, consult the .zip for an installable VS Code extension.
+I've adapted the theme for VS Code Ide; consult the .zip for an installable VS Code extension.
 
 How to use in vscode:
 
