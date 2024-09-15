@@ -8,12 +8,12 @@ These are CSS colors for terminal emulators that accept CSS colors in their conf
 I attempted to create a "color theme file" and "theme plug-in" but saw no way to implement them in settings, so I went the CSS route.
 
 -----
-ZED Ide:
-Consult this link: https://zed.dev/docs/themes
+**__ZED Ide:__**  
 
+Consult this link: https://zed.dev/docs/themes
 Use the information regarding "Local Themes."
 
-VS Code Update:
+**__VS Code:__**  
 
 I've adapted the theme fo VS Code Ide, consult the .zip for an installable VS Code extension.
 
