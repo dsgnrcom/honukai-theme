@@ -15,7 +15,7 @@ Use the information regarding "Local Themes."
 
 VS Code Update:
 
-I've adapted the theme fo ZED ide and VS Code Ide, consult the .zip for an installable extension.
+I've adapted the theme fo VS Code Ide, consult the .zip for an installable VS Code extension.
 
 How to use in vscode:
 
@@ -27,5 +27,5 @@ To install the .vsix File in Visual Studio Code:
 
 To Apply the Theme:
 
-Open the Command Palette (Cmd + Shift + P).
-Type Preferences: Color Theme and select "Honukai Dark Blue" from the list.
+-Open the Command Palette (Cmd + Shift + P).
+-Type Preferences: Color Theme and select "Honukai Dark Blue" from the list.
