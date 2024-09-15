@@ -8,6 +8,9 @@ These are CSS colors for terminal emulators that accept CSS colors in their conf
 I attempted to create a "color theme file" and "theme plug-in" but saw no way to implement them in settings, so I went the CSS route.
 
 -----
+The IDE versions below have way more colors extrapolated for IDE use case.
+
+
 **__ZED Ide:__**  
 
 Consult this link: https://zed.dev/docs/themes
