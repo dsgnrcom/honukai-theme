@@ -1,4 +1,4 @@
-__Honukai Theme 1.0__  
+__Honukai Theme 1.1__  
 Author:chris@hustles.dev after Oskar Krawczyk https://x.com/oskar/status/664911529192607746?lang=en
 
 *Reference 1:* https://github.com/oskarkrawczyk/honukai-iterm-zsh  
