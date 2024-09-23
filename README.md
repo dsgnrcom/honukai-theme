@@ -10,7 +10,7 @@ I attempted to create a "color theme file" and "theme plug-in" but saw no way to
 -----
 The IDE versions below have way more colors extrapolated for IDE use case.
 
-SEE [CHANGELOG]('https://github.com/chrisdigital/honukai-theme/blob/main/honukai-dark-blue-theme-vsc-1.1/CHANGELOG.md') FOR SUPPORTED LANGUAGES AND UPDATES.
+SEE [CHANGELOG](https://github.com/chrisdigital/honukai-theme/blob/main/honukai-dark-blue-theme-vsc-1.1/CHANGELOG.md) FOR SUPPORTED LANGUAGES AND UPDATES.
 
 
 **__ZED Ide:__**  https://zed.dev/
