@@ -10,6 +10,8 @@ I attempted to create a "color theme file" and "theme plug-in" but saw no way to
 -----
 The IDE versions below have way more colors extrapolated for IDE use case.
 
+SEE CHANGELOG FOR SUPPORTED LANGUAGES AND UPDATES.
+
 
 **__ZED Ide:__**  https://zed.dev/
 
