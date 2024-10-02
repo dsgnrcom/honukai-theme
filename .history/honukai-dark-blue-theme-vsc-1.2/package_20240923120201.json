@@ -1,0 +1,27 @@
+{
+    "name": "honukai-dark-blue-theme",
+    "displayName": "Honukai Dark Blue Theme",
+    "description": "A dark blue theme for Visual Studio Code",
+    "version": "1.1.0",
+    "publisher": "Hustles.Development.Lab",
+    "engines": {
+      "vscode": "^1.50.0"
+    },
+    "categories": [
+      "Themes"
+    ],
+    "contributes": {
+      "themes": [
+        {
+          "label": "Honukai Dark Blue",
+          "uiTheme": "vs-dark",
+          "path": "./themes/honukai-dark-blue-theme-vsc.json"
+        }
+      ]
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/chrisdigital/honukai-theme"
+    },
+    "license": "MIT"
+  }
