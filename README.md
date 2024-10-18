@@ -1,5 +1,5 @@
-__Honukai Theme 1.1__  
-Author:chris@hustles.dev after Oskar Krawczyk https://x.com/oskar/status/664911529192607746?lang=en
+__Honukai Theme 1.3__  
+Author:chris@dev.dsgnr.com after Oskar Krawczyk https://x.com/oskar/status/664911529192607746?lang=en
 
 *Reference 1:* https://github.com/oskarkrawczyk/honukai-iterm-zsh  
 *Reference 2:* https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/honukai.omp.json
